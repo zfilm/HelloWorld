@@ -9,26 +9,29 @@ using Android.OS;
 
 namespace Hello_World
 {
-	[Activity (Label = "Hello_World", MainLauncher = true)]
+	[Activity (Label = "HelloWorld app", MainLauncher = true)]
 	public class Activity1 : Activity
 	{
-		int count = 1;
-
 		protected override void OnCreate (Bundle bundle)
 		{
 			base.OnCreate (bundle);
 
 			// Set our view from the "main" layout resource
 			SetContentView (Resource.Layout.Main);
-
+			TextView label = FindViewById<TextView> (Resource.Id.textView2);
+			label.Text = "Our first Android app";
 			// Get our button from the layout resource,
 			// and attach an event to it
 			Button button = FindViewById<Button> (Resource.Id.myButton);
 			
-			button.Click += delegate {
-				button.Text = string.Format ("{0} clicks!", count++);
+			button.Click += (object sender, EventArgs e) => {
+				label.Text = "Hello There!";
+				button.Text = "Thanks for clicking";
 			};
+
 		}
+	}
+}
 
 //		protected override void OnCreate (Bundle bundle)
 //		{
@@ -50,7 +53,6 @@ namespace Hello_World
 //			layout.AddView (aButton);           
 //			SetContentView (layout);
 //		}
-	}
-}
+
 
 
