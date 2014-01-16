@@ -1,0 +1,13 @@
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\bin\Debug\Hello_World.dll
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\bin\Debug\Hello_World.dll.mdb
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\bin\Debug\Hello_World.Hello_World.apk
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\bin\Debug\Hello_World.Hello_World-Signed.apk
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\Hello_World.dll
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\Hello_World.pdb
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\android\bin\Hello_World.Hello_World.apk
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\res\layout\main.xml
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\res\values\strings.xml
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\res\drawable\icon.png
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\R.cs.flag
+C:\Users\Ingeborg\Documents\GitHub\HelloWorld\Hello_World\obj\Debug\uploadflags.txt
