@@ -1,1 +1,0 @@
-Hello_World.Activity1;hello_world.Activity1
